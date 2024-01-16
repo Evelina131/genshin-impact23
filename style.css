@@ -9,7 +9,7 @@ body {
 }
 header a{
     background-color: #D98AE6;
-    margin: 20px;
+    margin: 17px;
     padding: 13px;
     border-radius: 12px;
     text-decoration: none;
@@ -22,8 +22,8 @@ header{
 header nav{
     float: right;
     margin-top: 60px;
-    margin-right: 150px;
-    margin-left: 50px;
+    margin-right: 90px;
+    margin-left: 20px;
 }
 main h1{
     text-align: center;
